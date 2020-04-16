@@ -14,4 +14,4 @@ Technically, this is what we use to make this feat happen:
 - A static website written in React and served via GitHub Pages.
 - A GitHub repository to store game data.
 - Multiple Netlify functions (aka Lambdas) to retrieve and save games.
-- A websocket hosted on Heroku to enable multiplayer.
+- A websocket server hosted on Heroku to enable multiplayer.
