@@ -1,4 +1,4 @@
-The idea is simple: Playing multiplayer chess in the browser.
+A serverless application for multiplayer chess in the browser.
 
 ## Constraints
 - Running the application is 💯% free.
