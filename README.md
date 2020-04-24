@@ -11,7 +11,7 @@ And of course, we have all the features:
 - Keep a history of your games.
 
 Technically, this is what we use to make this feat happen:
-- `chess-client`: A static website written in React and served via GitHub Pages.
-- `chess-storage`: A GitHub repository to store game data.
-- `chess-functions`: Multiple Netlify functions (aka Lambdas) to retrieve and save games.
-- `chess-socket`: A websocket server hosted on Heroku to enable multiplayer.
+- [chess-client](https://github.com/yvesgurcan/chess-client): A static website written in React and served via GitHub Pages.
+- [chess-storage](https://github.com/yvesgurcan/chess-storage): A GitHub repository to store game data.
+- [chess-functions]https://github.com/yvesgurcan/chess-functions: Multiple Netlify functions (aka Lambdas) to retrieve and save games.
+- [chess-socket]https://github.com/yvesgurcan/chess-socket: A websocket server hosted on Heroku to enable multiplayer.
